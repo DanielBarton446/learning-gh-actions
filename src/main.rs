@@ -9,6 +9,6 @@ fn main() {
     println!("Hello, world!");
     println!("Hello, world AGAIN!");
     println!("Great seeing you world!");
-    println!("HECK")
+    println!("HECK");
     let x = --2;
 }
